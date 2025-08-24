@@ -6,7 +6,7 @@ Cryptoverse, kripto para dünyasını keşfetmek isteyenler için modern ve kull
 ![Cryptoverse gif](https://github.com/user-attachments/assets/186207c7-784c-4900-9c15-618998d30ed4)
 
 🔗 Live Demo:
-👉
+👉https://cryptoverse-homepage.netlify.app
 
 
 ## ✨ Özellikler
